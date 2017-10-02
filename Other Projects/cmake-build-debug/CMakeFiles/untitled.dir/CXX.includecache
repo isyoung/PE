@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/users/guest/i/isyoung1/CLionProjects/CS 235 Maps and Sets/main.cpp
+iostream
+-
+fstream
+-
+map
+-
+set
+-
+vector
+-
+sstream
+-
+algorithm
+-
+iterator
+-
+list
+-
+
